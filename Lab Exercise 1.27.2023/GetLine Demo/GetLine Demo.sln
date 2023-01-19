@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetLine Demo", "GetLine Demo\GetLine Demo.vcxproj", "{1FC9F33A-2ADE-47A2-91B4-481B5649549B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC9F33A-2ADE-47A2-91B4-481B5649549B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1FC9F33A-2ADE-47A2-91B4-481B5649549B}.Debug|Win32.Build.0 = Debug|Win32
+		{1FC9F33A-2ADE-47A2-91B4-481B5649549B}.Release|Win32.ActiveCfg = Release|Win32
+		{1FC9F33A-2ADE-47A2-91B4-481B5649549B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
