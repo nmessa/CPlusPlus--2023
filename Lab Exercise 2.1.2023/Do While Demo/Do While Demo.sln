@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Do While Demo", "Do While Demo\Do While Demo.vcxproj", "{393019BC-186A-4305-842D-6AA32FC6EE93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393019BC-186A-4305-842D-6AA32FC6EE93}.Debug|Win32.ActiveCfg = Debug|Win32
+		{393019BC-186A-4305-842D-6AA32FC6EE93}.Debug|Win32.Build.0 = Debug|Win32
+		{393019BC-186A-4305-842D-6AA32FC6EE93}.Release|Win32.ActiveCfg = Release|Win32
+		{393019BC-186A-4305-842D-6AA32FC6EE93}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

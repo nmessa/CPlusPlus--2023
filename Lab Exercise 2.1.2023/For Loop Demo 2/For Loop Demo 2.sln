@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For Loop Demo 2", "For Loop Demo 2\For Loop Demo 2.vcxproj", "{C881B8F0-024B-4AB4-8F67-B1864C0B5FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C881B8F0-024B-4AB4-8F67-B1864C0B5FCD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C881B8F0-024B-4AB4-8F67-B1864C0B5FCD}.Debug|Win32.Build.0 = Debug|Win32
+		{C881B8F0-024B-4AB4-8F67-B1864C0B5FCD}.Release|Win32.ActiveCfg = Release|Win32
+		{C881B8F0-024B-4AB4-8F67-B1864C0B5FCD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
