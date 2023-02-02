@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Structure Demo 3", "Structure Demo 3\Structure Demo 3.vcxproj", "{64D6A3F6-9D3D-4424-B9F0-FF6C25EBB522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D6A3F6-9D3D-4424-B9F0-FF6C25EBB522}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64D6A3F6-9D3D-4424-B9F0-FF6C25EBB522}.Debug|Win32.Build.0 = Debug|Win32
+		{64D6A3F6-9D3D-4424-B9F0-FF6C25EBB522}.Release|Win32.ActiveCfg = Release|Win32
+		{64D6A3F6-9D3D-4424-B9F0-FF6C25EBB522}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
