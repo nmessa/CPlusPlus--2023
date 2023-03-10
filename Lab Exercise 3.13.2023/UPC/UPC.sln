@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UPC", "UPC\UPC.vcxproj", "{1E77415A-E649-43CD-AEA3-89F9D025AE93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E77415A-E649-43CD-AEA3-89F9D025AE93}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E77415A-E649-43CD-AEA3-89F9D025AE93}.Debug|Win32.Build.0 = Debug|Win32
+		{1E77415A-E649-43CD-AEA3-89F9D025AE93}.Release|Win32.ActiveCfg = Release|Win32
+		{1E77415A-E649-43CD-AEA3-89F9D025AE93}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
