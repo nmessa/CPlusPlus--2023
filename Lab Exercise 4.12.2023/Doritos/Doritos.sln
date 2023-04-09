@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Doritos", "Doritos\Doritos.vcxproj", "{B6183B0B-86D1-46E5-BF1C-01D53648AA25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6183B0B-86D1-46E5-BF1C-01D53648AA25}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6183B0B-86D1-46E5-BF1C-01D53648AA25}.Debug|Win32.Build.0 = Debug|Win32
+		{B6183B0B-86D1-46E5-BF1C-01D53648AA25}.Release|Win32.ActiveCfg = Release|Win32
+		{B6183B0B-86D1-46E5-BF1C-01D53648AA25}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
